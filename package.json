@@ -1,0 +1,23 @@
+{
+  "name": "ITIS-6177-Week01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanikapol/ITIS-6177-Week01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanikapol/ITIS-6177-Week01/issues"
+  },
+  "homepage": "https://github.com/sanikapol/ITIS-6177-Week01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
